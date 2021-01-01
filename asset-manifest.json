@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/github.io/happy-new-year/static/css/main.b259914a.chunk.css",
+    "main.js": "/github.io/happy-new-year/static/js/main.abe33a57.chunk.js",
+    "main.js.map": "/github.io/happy-new-year/static/js/main.abe33a57.chunk.js.map",
+    "runtime-main.js": "/github.io/happy-new-year/static/js/runtime-main.2099894d.js",
+    "runtime-main.js.map": "/github.io/happy-new-year/static/js/runtime-main.2099894d.js.map",
+    "static/css/2.95f25948.chunk.css": "/github.io/happy-new-year/static/css/2.95f25948.chunk.css",
+    "static/js/2.ac9af253.chunk.js": "/github.io/happy-new-year/static/js/2.ac9af253.chunk.js",
+    "static/js/2.ac9af253.chunk.js.map": "/github.io/happy-new-year/static/js/2.ac9af253.chunk.js.map",
+    "static/js/3.d0a4fa20.chunk.js": "/github.io/happy-new-year/static/js/3.d0a4fa20.chunk.js",
+    "static/js/3.d0a4fa20.chunk.js.map": "/github.io/happy-new-year/static/js/3.d0a4fa20.chunk.js.map",
+    "index.html": "/github.io/happy-new-year/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/github.io/happy-new-year/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.b259914a.chunk.css.map": "/github.io/happy-new-year/static/css/main.b259914a.chunk.css.map",
+    "static/js/2.ac9af253.chunk.js.LICENSE.txt": "/github.io/happy-new-year/static/js/2.ac9af253.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github.io/happy-new-year/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2099894d.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.ac9af253.chunk.js",
+    "static/css/main.b259914a.chunk.css",
+    "static/js/main.abe33a57.chunk.js"
+  ]
+}
