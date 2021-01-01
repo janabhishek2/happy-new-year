@@ -54,8 +54,9 @@ render(){
     <span  className={this.state.classMsg} id="message"><div className="d-flex"><h3 className="mx-auto"><i>HAPPY NEW YEAR</i></h3>
     
     </div>
+    <br/>
     <div>
-      <p>On this New Year, may you change your direction and not dates, change your commitments and not the calendar, change your attitude and not the actions, and bring about a change in your faith, your force, and your focus and not the fruit. May you live up to the promises you have made and may you create for you and your loved ones the happiest New Year ever.</p>
+      <p className="text-justify">On this New Year, may you change your direction and not dates, change your commitments and not the calendar, change your attitude and not the actions, and bring about a change in your faith, your force, and your focus and not the fruit. May you live up to the promises you have made and may you create for you and your loved ones the happiest New Year ever.</p>
     </div>
 
     <div>
