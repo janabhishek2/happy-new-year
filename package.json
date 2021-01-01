@@ -34,5 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "bootstrap": "^4.5.3",
+    "react-confetti": "^6.0.0",
+    "react-router-dom": "^5.2.0"
   }
 }

@@ -27,7 +27,9 @@
 .App-link {
   color: #61dafb;
 }
-
+.card-body{
+  overflow-x:hidden;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +37,37 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.container{
+
+  border-radius:20px;
+  margin-top:50px;
+  
+}
+#fhalf{
+  height:300px;
+  width:50%;
+  
+ transition :transform 3s;
+}
+#shalf{
+  width:50%;
+  height:300px;
+
+  transition :transform 3s;
+}
+@keyframes fade {
+  from{
+    opacity: 0;
+  }
+  to{
+    opacity:1;
+  }
+}
+#message{
+  text-align: center;
+  animation-name:fade;
+  animation-duration: 3s;
 }
