@@ -59,7 +59,7 @@ render(){
     </div>
 
     <div>
-      <p className="text-right"><i>- Renu Raina</i></p>
+      <p className="text-right"><i><b>- Renu Raina</b></i></p>
     </div>
     </span>
       <img id="shalf" className={this.state.classFirst} style={this.getStylesSecond()} src="https://raw.githubusercontent.com/janabhishek2/images/main/783-7830138_2-theater-curtain.png"/>
